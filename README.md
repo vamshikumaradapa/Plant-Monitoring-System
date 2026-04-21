@@ -33,7 +33,9 @@ It helps in maintaining proper plant health by tracking soil moisture and enviro
 2. Upload `main.ino` to Arduino
 3. Open Serial Monitor
 4. View sensor readings
+## 📷 Images
 
+![image alt]()
 ## 📌 Future Improvements
 
 * Mobile app integration
