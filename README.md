@@ -35,6 +35,7 @@ It helps in maintaining proper plant health by tracking soil moisture and enviro
 4. View sensor readings
 ## 📷 Images
 
+![image alt](https://github.com/vamshikumaradapa/Plant-Monitoring-System/blob/ee5d775bec9833d34186c6ebf7b42a0fc1615821/image.png)
 ![image alt]()
 ## 📌 Future Improvements
 
