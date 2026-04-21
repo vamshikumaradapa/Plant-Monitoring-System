@@ -37,7 +37,7 @@ It helps in maintaining proper plant health by tracking soil moisture and enviro
 
 ![image alt](https://github.com/vamshikumaradapa/Plant-Monitoring-System/blob/ee5d775bec9833d34186c6ebf7b42a0fc1615821/image.png)
 ![image alt](https://github.com/vamshikumaradapa/Plant-Monitoring-System/blob/08946077d48081e08b6bec2488fa972fd2bef07e/WhatsApp%20Image%202026-04-21%20at%2011.50.14%20AM.jpeg)
-![image alt]()
+![image alt](https://github.com/vamshikumaradapa/Plant-Monitoring-System/blob/c830193770fa6864297f3e1733d41f5393f85dc9/WhatsApp%20Image%202026-04-21%20at%2011.51.06%20AM.jpeg)
 ## 📌 Future Improvements
 
 * Mobile app integration
